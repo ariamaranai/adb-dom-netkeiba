@@ -1,0 +1,11 @@
+netkeiba.com##footer
+netkeiba.com###SideColumn
+netkeiba.com###geniee_overlay_outer
+netkeiba.com###ow_bunner_view
+netkeiba.com###find_thread
+netkeiba.com##.SiteToggleBtn01.Keirin
+race.netkeiba.com###JraDigest
+race.netkeiba.com###delay_umai_yosoka_f
+race.netkeiba.com###link_to_pdf
+race.netkeiba.com##.RaceList_Footer
+race.netkeiba.com##.RaceList_TxtBox
