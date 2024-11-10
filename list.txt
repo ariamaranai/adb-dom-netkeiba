@@ -4,6 +4,10 @@ netkeiba.com###geniee_overlay_outer
 netkeiba.com###ow_bunner_view
 netkeiba.com###find_thread
 netkeiba.com##.SiteToggleBtn01.Keirin
+db.netkeiba.com###contents .add_bnr,.top_newinfo_box
+db.netkeiba.com###side
+db.netkeiba.com##.db_prof_area_01 .db_prof_box
+db.netkeiba.com###main .db_h_rank_box
 race.netkeiba.com###JraDigest
 race.netkeiba.com###delay_umai_yosoka_f
 race.netkeiba.com###link_to_pdf
