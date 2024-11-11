@@ -6,6 +6,7 @@ netkeiba.com###find_thread
 netkeiba.com##.SiteToggleBtn01.Keirin
 db.netkeiba.com###contents .add_bnr,.top_newinfo_box
 db.netkeiba.com###side
+db.netkeiba.com##.DB_ProfHead_dt_01
 db.netkeiba.com##.db_prof_area_01 .db_prof_box
 db.netkeiba.com###main .db_h_rank_box
 race.netkeiba.com###JraDigest
@@ -13,3 +14,6 @@ race.netkeiba.com###delay_umai_yosoka_f
 race.netkeiba.com###link_to_pdf
 race.netkeiba.com##.RaceList_Footer
 race.netkeiba.com##.RaceList_TxtBox
+news.netkeiba.com##.Nk_NewsArticle_Share
+news.netkeiba.com##.UserContents_Header
+news.netkeiba.com##.contents_Header
