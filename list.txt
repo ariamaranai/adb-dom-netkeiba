@@ -1,19 +1,4 @@
-netkeiba.com##footer
-netkeiba.com###SideColumn
-netkeiba.com###geniee_overlay_outer
-netkeiba.com###ow_bunner_view
-netkeiba.com###find_thread
-netkeiba.com##.SiteToggleBtn01.Keirin
-db.netkeiba.com###contents .add_bnr,.top_newinfo_box
-db.netkeiba.com###side
-db.netkeiba.com##.DB_ProfHead_dt_01
-db.netkeiba.com##.db_prof_area_01 .db_prof_box
-db.netkeiba.com###main .db_h_rank_box
-race.netkeiba.com###JraDigest
-race.netkeiba.com###delay_umai_yosoka_f
-race.netkeiba.com###link_to_pdf
-race.netkeiba.com##.RaceList_Footer
-race.netkeiba.com##.RaceList_TxtBox
-news.netkeiba.com##.Nk_NewsArticle_Share
-news.netkeiba.com##.UserContents_Header
-news.netkeiba.com##.contents_Header
+netkeiba.com###SideColumn,#geniee_overlay_outer,#ow_bunner_view,#find_thread,.Paper,.Shop.New,.SiteToggleBtn01.Keirin,[href="https://yoso.netkeiba.com/senmonshi/jra/?rf=race_banner"],[href="https://uma36.com/"],footer
+db.netkeiba.com###contents .add_bnr,.top_newinfo_box,#main .db_h_rank_box,#main .Description_Box02.Flow.mt18,#side,.DB_ProfHead_dt_01,.db_prof_area_01 .db_prof_box
+race.netkeiba.com###JraDigest,#delay_umai_yosoka_f,#link_to_pdf,.RaceList_Footer,.RaceList_TxtBox
+news.netkeiba.com##.Nk_NewsArticle_Share,.UserContents_Header,.contents_Header
